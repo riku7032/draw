@@ -1,1 +1,135 @@
-<mxfile host="app.diagrams.net" modified="2022-08-09T05:53:55.710Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.81 Safari/537.36 Edg/104.0.1293.47" version="20.2.3" etag="HLY6snRvfiUINO9O56Sn" type="github"><diagram id="KfXHrlXXEo-7JiMFaEPL">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-08-09T06:26:51.488Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.81 Safari/537.36 Edg/104.0.1293.47" etag="4A1ePkt5X9AMkuNXL5-M" version="20.2.3" type="github">
+  <diagram id="KfXHrlXXEo-7JiMFaEPL" name="第 1 页">
+    <mxGraphModel dx="1673" dy="980" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="iJlSjAkD3Rdt9lnwG3_P-27" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="100" y="1120" width="530" height="530" as="geometry" />
+        </mxCell>
+        <mxCell id="iJlSjAkD3Rdt9lnwG3_P-6" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="100" y="10" width="530" height="530" as="geometry" />
+        </mxCell>
+        <mxCell id="iJlSjAkD3Rdt9lnwG3_P-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="iJlSjAkD3Rdt9lnwG3_P-4" target="iJlSjAkD3Rdt9lnwG3_P-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iJlSjAkD3Rdt9lnwG3_P-16" value="光纤" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="iJlSjAkD3Rdt9lnwG3_P-15">
+          <mxGeometry x="0.2334" y="4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iJlSjAkD3Rdt9lnwG3_P-4" value="" style="shape=mxgraph.cisco.switches.layer_3_switch;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="317" y="250" width="64" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="iJlSjAkD3Rdt9lnwG3_P-5" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="100" y="560" width="530" height="530" as="geometry" />
+        </mxCell>
+        <mxCell id="iJlSjAkD3Rdt9lnwG3_P-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iJlSjAkD3Rdt9lnwG3_P-7" target="iJlSjAkD3Rdt9lnwG3_P-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iJlSjAkD3Rdt9lnwG3_P-33" value="网线" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="iJlSjAkD3Rdt9lnwG3_P-9">
+          <mxGeometry x="-0.037" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iJlSjAkD3Rdt9lnwG3_P-7" value="" style="shape=mxgraph.rack.hp.hp_proliant_dl560_g8;html=1;labelPosition=right;align=left;spacingLeft=15;dashed=0;shadow=0;fillColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="140" y="40" width="161" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iJlSjAkD3Rdt9lnwG3_P-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="iJlSjAkD3Rdt9lnwG3_P-10" target="iJlSjAkD3Rdt9lnwG3_P-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iJlSjAkD3Rdt9lnwG3_P-34" value="网线" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="iJlSjAkD3Rdt9lnwG3_P-12">
+          <mxGeometry x="0.1258" y="-4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iJlSjAkD3Rdt9lnwG3_P-10" value="" style="shape=mxgraph.rack.hp.hp_proliant_dl560_g8;html=1;labelPosition=right;align=left;spacingLeft=15;dashed=0;shadow=0;fillColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="107.5" y="100" width="161" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iJlSjAkD3Rdt9lnwG3_P-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iJlSjAkD3Rdt9lnwG3_P-13" target="iJlSjAkD3Rdt9lnwG3_P-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iJlSjAkD3Rdt9lnwG3_P-31" value="光纤" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="iJlSjAkD3Rdt9lnwG3_P-30">
+          <mxGeometry x="0.168" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iJlSjAkD3Rdt9lnwG3_P-13" value="" style="strokeColor=#666666;html=1;labelPosition=right;align=left;spacingLeft=15;shadow=0;dashed=0;outlineConnect=0;shape=mxgraph.rack.general.cat5e_rack_mount_patch_panel_24_ports;" vertex="1" parent="1">
+          <mxGeometry x="410" y="460" width="160" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="iJlSjAkD3Rdt9lnwG3_P-14" value="跳线架" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="335" y="452.5" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iJlSjAkD3Rdt9lnwG3_P-17" value="&lt;font color=&quot;#ff6666&quot;&gt;1226&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="520" y="40" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iJlSjAkD3Rdt9lnwG3_P-23" value="光纤" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="iJlSjAkD3Rdt9lnwG3_P-18" target="iJlSjAkD3Rdt9lnwG3_P-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iJlSjAkD3Rdt9lnwG3_P-18" value="" style="strokeColor=#666666;html=1;labelPosition=right;align=left;spacingLeft=15;shadow=0;dashed=0;outlineConnect=0;shape=mxgraph.rack.general.cat5e_rack_mount_patch_panel_24_ports;" vertex="1" parent="1">
+          <mxGeometry x="410" y="600" width="160" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="iJlSjAkD3Rdt9lnwG3_P-21" value="跳线架" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="335" y="592.5" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iJlSjAkD3Rdt9lnwG3_P-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iJlSjAkD3Rdt9lnwG3_P-22" target="iJlSjAkD3Rdt9lnwG3_P-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iJlSjAkD3Rdt9lnwG3_P-22" value="" style="shape=mxgraph.cisco.switches.layer_3_switch;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="300" y="710" width="64" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="iJlSjAkD3Rdt9lnwG3_P-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iJlSjAkD3Rdt9lnwG3_P-24">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="197" y="1270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iJlSjAkD3Rdt9lnwG3_P-32" value="网线" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="iJlSjAkD3Rdt9lnwG3_P-26">
+          <mxGeometry x="-0.2528" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iJlSjAkD3Rdt9lnwG3_P-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.486;entryY=-0.028;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="iJlSjAkD3Rdt9lnwG3_P-24" target="iJlSjAkD3Rdt9lnwG3_P-37">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="220" y="1143" />
+              <mxPoint x="285" y="1143" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iJlSjAkD3Rdt9lnwG3_P-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.498;entryY=0.018;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="iJlSjAkD3Rdt9lnwG3_P-24" target="iJlSjAkD3Rdt9lnwG3_P-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iJlSjAkD3Rdt9lnwG3_P-24" value="" style="strokeColor=#666666;html=1;labelPosition=right;align=left;spacingLeft=15;shadow=0;dashed=0;outlineConnect=0;shape=mxgraph.rack.general.cat5e_rack_mount_patch_panel_24_ports;" vertex="1" parent="1">
+          <mxGeometry x="117" y="990" width="160" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="iJlSjAkD3Rdt9lnwG3_P-29" value="" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer_with_Server.svg;" vertex="1" parent="1">
+          <mxGeometry x="165.8" y="1280" width="62.400000000000006" height="62.400000000000006" as="geometry" />
+        </mxCell>
+        <mxCell id="iJlSjAkD3Rdt9lnwG3_P-35" value="交换机" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="379" y="230" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iJlSjAkD3Rdt9lnwG3_P-36" value="交换机" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="300" y="670" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iJlSjAkD3Rdt9lnwG3_P-37" value="" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer_with_Server.svg;" vertex="1" parent="1">
+          <mxGeometry x="254.6" y="1280" width="62.400000000000006" height="62.400000000000006" as="geometry" />
+        </mxCell>
+        <mxCell id="iJlSjAkD3Rdt9lnwG3_P-38" value="" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer_with_Server.svg;" vertex="1" parent="1">
+          <mxGeometry x="340" y="1280" width="62.400000000000006" height="62.400000000000006" as="geometry" />
+        </mxCell>
+        <mxCell id="iJlSjAkD3Rdt9lnwG3_P-47" value="跳线架" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="208.5" y="950" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iJlSjAkD3Rdt9lnwG3_P-48" value="座位" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="241" y="1360" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iJlSjAkD3Rdt9lnwG3_P-49" value="&lt;font color=&quot;#ff6666&quot;&gt;1116&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="530" y="650" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iJlSjAkD3Rdt9lnwG3_P-50" value="&lt;font color=&quot;#ff6666&quot;&gt;IT 办公室&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="510" y="1140" width="60" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
